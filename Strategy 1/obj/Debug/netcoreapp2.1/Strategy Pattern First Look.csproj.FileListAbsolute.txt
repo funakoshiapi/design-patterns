@@ -1,0 +1,11 @@
+C:\Users\fsilva\Desktop\Design patterns in C#\c-sharp-design-patterns-strategy\myWork\Start_Here\obj\Debug\netcoreapp2.1\Strategy Pattern First Look.csprojAssemblyReference.cache
+C:\Users\fsilva\Desktop\Design patterns in C#\c-sharp-design-patterns-strategy\myWork\Start_Here\obj\Debug\netcoreapp2.1\Strategy Pattern First Look.csproj.CoreCompileInputs.cache
+C:\Users\fsilva\Desktop\Design patterns in C#\c-sharp-design-patterns-strategy\myWork\Start_Here\obj\Debug\netcoreapp2.1\Strategy Pattern First Look.AssemblyInfoInputs.cache
+C:\Users\fsilva\Desktop\Design patterns in C#\c-sharp-design-patterns-strategy\myWork\Start_Here\obj\Debug\netcoreapp2.1\Strategy Pattern First Look.AssemblyInfo.cs
+C:\Users\fsilva\Desktop\Design patterns in C#\c-sharp-design-patterns-strategy\myWork\Start_Here\bin\Debug\netcoreapp2.1\Strategy Pattern First Look.deps.json
+C:\Users\fsilva\Desktop\Design patterns in C#\c-sharp-design-patterns-strategy\myWork\Start_Here\bin\Debug\netcoreapp2.1\Strategy Pattern First Look.runtimeconfig.json
+C:\Users\fsilva\Desktop\Design patterns in C#\c-sharp-design-patterns-strategy\myWork\Start_Here\bin\Debug\netcoreapp2.1\Strategy Pattern First Look.runtimeconfig.dev.json
+C:\Users\fsilva\Desktop\Design patterns in C#\c-sharp-design-patterns-strategy\myWork\Start_Here\bin\Debug\netcoreapp2.1\Strategy Pattern First Look.dll
+C:\Users\fsilva\Desktop\Design patterns in C#\c-sharp-design-patterns-strategy\myWork\Start_Here\bin\Debug\netcoreapp2.1\Strategy Pattern First Look.pdb
+C:\Users\fsilva\Desktop\Design patterns in C#\c-sharp-design-patterns-strategy\myWork\Start_Here\obj\Debug\netcoreapp2.1\Strategy Pattern First Look.dll
+C:\Users\fsilva\Desktop\Design patterns in C#\c-sharp-design-patterns-strategy\myWork\Start_Here\obj\Debug\netcoreapp2.1\Strategy Pattern First Look.pdb
