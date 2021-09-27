@@ -1,0 +1,11 @@
+C:\Users\fsilva\Desktop\Design patterns in C#\strategy design pattern example 2\StrategyDesignPatternExample2\StrategyDesignPatternExample2\bin\Debug\netcoreapp2.1\StrategyDesignPatternExample2.deps.json
+C:\Users\fsilva\Desktop\Design patterns in C#\strategy design pattern example 2\StrategyDesignPatternExample2\StrategyDesignPatternExample2\bin\Debug\netcoreapp2.1\StrategyDesignPatternExample2.runtimeconfig.json
+C:\Users\fsilva\Desktop\Design patterns in C#\strategy design pattern example 2\StrategyDesignPatternExample2\StrategyDesignPatternExample2\bin\Debug\netcoreapp2.1\StrategyDesignPatternExample2.runtimeconfig.dev.json
+C:\Users\fsilva\Desktop\Design patterns in C#\strategy design pattern example 2\StrategyDesignPatternExample2\StrategyDesignPatternExample2\bin\Debug\netcoreapp2.1\StrategyDesignPatternExample2.dll
+C:\Users\fsilva\Desktop\Design patterns in C#\strategy design pattern example 2\StrategyDesignPatternExample2\StrategyDesignPatternExample2\bin\Debug\netcoreapp2.1\StrategyDesignPatternExample2.pdb
+C:\Users\fsilva\Desktop\Design patterns in C#\strategy design pattern example 2\StrategyDesignPatternExample2\StrategyDesignPatternExample2\obj\Debug\netcoreapp2.1\StrategyDesignPatternExample2.csprojAssemblyReference.cache
+C:\Users\fsilva\Desktop\Design patterns in C#\strategy design pattern example 2\StrategyDesignPatternExample2\StrategyDesignPatternExample2\obj\Debug\netcoreapp2.1\StrategyDesignPatternExample2.csproj.CoreCompileInputs.cache
+C:\Users\fsilva\Desktop\Design patterns in C#\strategy design pattern example 2\StrategyDesignPatternExample2\StrategyDesignPatternExample2\obj\Debug\netcoreapp2.1\StrategyDesignPatternExample2.AssemblyInfoInputs.cache
+C:\Users\fsilva\Desktop\Design patterns in C#\strategy design pattern example 2\StrategyDesignPatternExample2\StrategyDesignPatternExample2\obj\Debug\netcoreapp2.1\StrategyDesignPatternExample2.AssemblyInfo.cs
+C:\Users\fsilva\Desktop\Design patterns in C#\strategy design pattern example 2\StrategyDesignPatternExample2\StrategyDesignPatternExample2\obj\Debug\netcoreapp2.1\StrategyDesignPatternExample2.dll
+C:\Users\fsilva\Desktop\Design patterns in C#\strategy design pattern example 2\StrategyDesignPatternExample2\StrategyDesignPatternExample2\obj\Debug\netcoreapp2.1\StrategyDesignPatternExample2.pdb
